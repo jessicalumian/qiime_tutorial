@@ -1,3 +1,5 @@
+This lesson is a re-packing of the [original QIIME Illumina tutorial](http://nbviewer.jupyter.org/github/biocore/qiime/blob/1.9.1/examples/ipynb/illumina_overview_tutorial.ipynb)
+
 First we will start by downloading the data. Copy the following command into your terminal.
 
 # Step 0. Downloading the data and map file.
