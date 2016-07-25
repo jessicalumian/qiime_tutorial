@@ -138,6 +138,6 @@ IMPORTANT: Removing points from a PCoA plot, as is suggested above for data expl
 
 # Take biom file to Kronas
 
-* Take the biom file generated in step 3 and convert it to a text file.
+* Take the biom file generated in step 3 and convert it to a text file using a `biom convert` command, such as exemplified [here](http://biom-format.org/documentation/biom_conversion.html)
 * Convert to tab delimited file.
-* Run with Kronas script and generate this link: INSERT LINK HERE
+* Use [Krona](https://github.com/marbl/Krona/wiki) to generate interactive visualization tool.
