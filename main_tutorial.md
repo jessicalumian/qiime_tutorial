@@ -13,6 +13,7 @@ First we will start by downloading the data. Copy the following command into you
 # Step 0. Downloading the data and map file.
 
 ```text
+# note - install wget on macs with homebrew or replace with curl -O
 wget ftp://ftp.microbio.me/qiime/tutorial_files/moving_pictures_tutorial-1.9.0.tgz || curl -O ftp://ftp.microbio.me/qiime/tutorial_files/moving_pictures_tutorial-1.9.0.tgz
 tar -xzf moving_pictures_tutorial-1.9.0.tgz
 ```
