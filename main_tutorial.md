@@ -2,6 +2,10 @@ This lesson is a re-packing of the [original QIIME Illumina tutorial](http://nbv
 
 In this tutorial, you will need to open a terminal window. (On a Mac go to `Applications` -> `Terminal`) and copy and paste the commands in gray boxes.
 
+If you are unfamiliar with a terminal, this interactive [Command Line Bootcamp](http://rik.smith-unna.com/command_line_bootcamp/?id=853chdeh0lw4txumyo15vu0udi) is helpful for fundamental skills such a file navigation, creation, and file interaction skills.
+
+For a longer guide with more explanation, you can check out the [Software Carpentry Unix Shell tutorial](http://swcarpentry.github.io/shell-novice/).
+
 ## About the data
 
 Illumina Overview Tutorial: Moving Pictures of the Human Microbiome
