@@ -7,9 +7,6 @@ This tutorial covers a full QIIME workflow using Illumina sequencing data. This 
 
 The data used in this tutorial are derived from the [Moving Pictures of the Human Microbiome](http://www.ncbi.nlm.nih.gov/pubmed/21624126) study, where two human subjects collected daily samples from four body sites: the tongue, the palm of the left hand, the palm of the right hand, and the gut (via fecal samples obtained by swapping used toilet paper). These data were sequenced using the barcoded amplicon sequencing protocol described in [Global patterns of 16S rRNA diversity at a depth of millions of sequences per sample](http://www.ncbi.nlm.nih.gov/pubmed/20534432). A more recent version of this protocol that can be used with the Illumina HiSeq 2000 and MiSeq can be found [here](http://www.ncbi.nlm.nih.gov/pubmed/22402401).
 
-
-First we will start by downloading the data. Copy the following command into your terminal.
-
 # Step 0. Downloading the data and map file.
 
 Download the raw reads and map files for this tutorial, and unzip it using the tar command.
