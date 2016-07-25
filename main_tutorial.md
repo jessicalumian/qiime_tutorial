@@ -1,5 +1,7 @@
 This lesson is a re-packing of the [original QIIME Illumina tutorial](http://nbviewer.jupyter.org/github/biocore/qiime/blob/1.9.1/examples/ipynb/illumina_overview_tutorial.ipynb)
 
+In this tutorial, you will need to open a terminal window. (On a Mac go to `Applications` -> `Terminal`) and copy and paste the commands in gray boxes.
+
 ## About the data
 
 Illumina Overview Tutorial: Moving Pictures of the Human Microbiome
@@ -12,7 +14,6 @@ The data used in this tutorial are derived from the [Moving Pictures of the Huma
 Download the raw reads and map files for this tutorial, and unzip it using the tar command.
 
 ```text
-# note - install wget on macs with homebrew or replace with curl -O
 wget ftp://ftp.microbio.me/qiime/tutorial_files/moving_pictures_tutorial-1.9.0.tgz || curl -O ftp://ftp.microbio.me/qiime/tutorial_files/moving_pictures_tutorial-1.9.0.tgz
 tar -xzf moving_pictures_tutorial-1.9.0.tgz
 ```
