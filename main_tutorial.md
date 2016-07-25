@@ -107,3 +107,8 @@ make_emperor.py -i cdout/bdiv_even1114/unweighted_unifrac_pc.txt -o cdout/bdiv_e
 
 IMPORTANT: Removing points from a PCoA plot, as is suggested above for data exploration purposes, is not the same as computing PCoA without those points. If after running this, you'd like to remove the samples taken during AntibioticUsage from the analysis, you can do this with filter_samples_from_otus_table.py, which is discussed here. As an exercise, try removing the samples taken during AntibioticUsage from the OTU table and re-running core_diversity_analyses.py. You should output the results to a different directory than you created above (e.g., cdout_no_abx).
 
+# Take biom file to Kronas
+
+* Take the biom file generated in step 3 and convert it to a text file.
+* Convert to tab delimited file.
+* Run with Kronas script and generate this link: INSERT LINK HERE
